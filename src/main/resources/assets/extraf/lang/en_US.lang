@@ -1,0 +1,29 @@
+itemGroup.extraf=Extra Features
+
+item.SIMPLE_RING.name=Simple ring
+item.CHERRY.name=Cherry
+
+item.EMERALD_AXE.name=Emerald axe
+item.EMERALD_SWORD.name=Emerald sword
+item.EMERALD_HOE.name=Emerald hoe
+item.EMERALD_PICKAXE.name=Emerald pickaxe
+item.EMERALD_SPADE.name=Emerald spade
+item.EMERALD_MULTI_TOOL.name=Emerald multitool
+
+item.EMERALD_HELMET.name=Emerald helmet
+item.EMERALD_PLATE.name=Emerald plate
+item.EMERALD_LEGS.name=Emerald legs
+item.EMERALD_BOOTS.name=Emerald boots
+item.EMERALD_ENHANCED_HELMET.name=Emerald enhanced helmet
+item.EMERALD_ENHANCED_PLATE.name=Emerald enhanced plate
+item.EMERALD_ENHANCED_LEGS.name=Emerald enhanced legs
+item.EMERALD_ENHANCED_BOOTS.name=Emerald enhanced boots
+item.RUBY_HELMET.name=Ruby helmet
+item.RUBY_PLATE.name=Ruby plate
+item.RUBY_LEGS.name=Ruby legs
+item.RUBY_BOOTS.name=Ruby boots
+
+
+entity.extraf.goose.name=Гусь
+
+tile.ruby.name=Рубиновый блок

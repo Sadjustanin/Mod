@@ -1,0 +1,49 @@
+[14:32:48] [main/INFO]: Setting user: Player974
+[14:32:48] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:32:48] [Client thread/ERROR]: Couldn't initialize twitch stream
+[14:32:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Features
+[14:32:55] [Sound Library Loader/INFO]: Sound engine started
+[14:32:55] [Client thread/INFO]: Created: 32x32 textures/blocks-atlas
+[14:32:55] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:32:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Features
+[14:32:56] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[14:32:56] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[14:32:57] [Sound Library Loader/INFO]: Sound engine started
+[14:33:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:33:08] [Server thread/INFO]: Generating keypair
+[14:33:08] [Server thread/INFO]: Preparing start region for level 0
+[14:33:09] [Server thread/INFO]: Changing view distance to 16, from 10
+[14:33:09] [Server thread/INFO]: Player974[local:E:43d27f46] logged in with entity id 372 at (434.8471159172597, 72.54180530082371, 153.3421442093935)
+[14:33:09] [Server thread/INFO]: Player974 присоединился к игре
+[14:33:14] [Server thread/INFO]: Player974 заработал достижение [Проверить карманы]
+[14:33:14] [Client thread/INFO]: [CHAT] Player974 заработал достижение [Проверить карманы]
+[14:33:23] [Server thread/INFO]: Saving and pausing game...
+[14:33:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:33:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:33:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:33:24] [Client thread/INFO]: Started on 38307
+[14:33:24] [Client thread/INFO]: [CHAT] Локальный сервер работает на порте 38307
+[14:33:51] [Client thread/INFO]: [CHAT] 'dayt' - не является допустимым числом
+[14:33:54] [Server thread/INFO]: [Player974: Установлено время: 1000]
+[14:33:55] [Client thread/INFO]: [CHAT] Установлено время: 1000
+[14:34:10] [Server thread/INFO]: [Player974: Ваш режим игры изменён на Выживание]
+[14:34:10] [Client thread/INFO]: [CHAT] Ваш игровой режим обновлён
+[14:35:09] [Server thread/INFO]: [Player974: Ваш режим игры изменён на Творческий режим]
+[14:35:09] [Client thread/INFO]: [CHAT] Ваш игровой режим обновлён
+[14:35:18] [Server thread/INFO]: [Player974: Ваш режим игры изменён на Выживание]
+[14:35:18] [Client thread/INFO]: [CHAT] Ваш игровой режим обновлён
+[14:35:26] [Server thread/INFO]: [Player974: Ваш режим игры изменён на Творческий режим]
+[14:35:26] [Client thread/INFO]: [CHAT] Ваш игровой режим обновлён
+[14:35:40] [Server thread/INFO]: [Player974: Ваш режим игры изменён на Выживание]
+[14:35:40] [Client thread/INFO]: [CHAT] Ваш игровой режим обновлён
+[14:35:52] [Server thread/INFO]: [Player974: Ваш режим игры изменён на Творческий режим]
+[14:35:52] [Client thread/INFO]: [CHAT] Ваш игровой режим обновлён
+[14:37:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
+[14:37:37] [Client thread/INFO]: Stopping!
+[14:37:37] [Server thread/INFO]: Stopping server
+[14:37:37] [Server thread/INFO]: Saving players
+[14:37:37] [Server thread/INFO]: Saving worlds
+[14:37:37] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:37:37] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:37:37] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:37:37] [Client Shutdown Thread/INFO]: Stopping server

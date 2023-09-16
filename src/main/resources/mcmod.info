@@ -1,0 +1,11 @@
+[
+{
+  "modid": "extraf",
+  "name": "Extra Features",
+  "description": "Adds extra features.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "rt.pornhub.com",
+  "authorList": ["Sadjustanin"]
+}
+]

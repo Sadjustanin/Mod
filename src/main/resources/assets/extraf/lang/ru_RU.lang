@@ -1,0 +1,22 @@
+item.SIMPLE_RING.name=Простое кольцо
+item.CHERRY.name=Вишня
+
+item.EMERALD_AXE.name=Изумрудный топор
+item.EMERALD_SWORD.name=Изумрудный меч
+item.EMERALD_HOE.name=Изумрудная мотыга
+item.EMERALD_PICKAXE.name=Изумрудная кирка
+item.EMERALD_SPADE.name=Изумрудная лопата
+item.EMERALD_MULTI_TOOL.name=Изумрудный мультиинструмент
+
+item.EMERALD_HELMET.name=Изумрудный шлем
+item.EMERALD_PLATE.name=Изумрудный нагрудник
+item.EMERALD_LEGS.name=Изумрудные поножи
+item.EMERALD_BOOTS.name=Изумрудные ботинки
+item.EMERALD_ENHANCED_HELMET.name=Изумрудный усиленный шлем
+item.EMERALD_ENHANCED_PLATE.name=Изумрудный усиленный нагрудник
+item.EMERALD_ENHANCED_LEGS.name=Изумрудные усиленные поножи
+item.EMERALD_ENHANCED_BOOTS.name=Изумрудные усиленные ботинки
+item.RUBY_HELMET.name=Рубиновый шлем
+item.RUBY_PLATE.name=Рубиновый нагрудник
+item.RUBY_LEGS.name=Рубиновые поножи
+item.RUBY_BOOTS.name=Рубиновые ботинки
